@@ -1,6 +1,6 @@
 # halprin
 
-See the pins below for some of my favorite open-source repositories I run or commit to.  You can view even more on the [repositories tab](https://github.com/halprin?tab=repositories).
+See the pins below for some of my favorite open-source repositories I maintain or commit to.  You can view even more on the [repositories tab](https://github.com/halprin?tab=repositories).
 
 ## Commit Signing
 
